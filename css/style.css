@@ -1,0 +1,66 @@
+.height{
+    height: auto;
+
+}.flex{
+    display: flex;
+    padding-top: 1.5rem !important;
+}.btnstyle{
+    position: relative;
+    right: 42px;
+}.inputsearch{
+    box-shadow: 4px 5px 6px #60A4FA;
+}.i{
+    color: #000;
+    font-size: 23px;
+
+}.img img {
+    width: 283px;
+    padding-left: 20px;
+}.p{
+    width: 78%;
+    float: right;
+}u{
+    color: #fff;
+}.card{
+    background-color: #fff;
+    border-radius: 20px;
+    height: auto;
+    width: 100%;
+}.darkmode{
+    background-color: black;
+    color: white;
+}.lightcolor{
+    color: white;
+}.dart{
+    background-color: #09186d !important;
+    color: #000;
+}.card1{
+    background-color: black;
+    color: white;
+}
+.test{
+    background-color: black !important;
+    color: white;
+}.p_card{
+    padding-left: 47px;
+}
+@media screen and (max-width:992px) {
+    .height{
+        height: auto;
+    
+    }
+}
+@media screen and (max-width: 600px) {
+    .height{
+        height: auto;
+    }.p {
+        width: 78%;
+        float: right;
+        padding-bottom: 20px;
+    }.card{
+        background-color: #fff;
+        border-radius: 20px;
+        height: auto;
+        width: 100%;
+    }
+}
